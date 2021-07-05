@@ -1,0 +1,7 @@
+Please run 'php artisan storage:link' to link images in storage and public
+
+Contact:
+
+lineid : Pietterh
+WA     : 081284008698
+E-mail : pietter567@gmail.com
